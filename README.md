@@ -42,7 +42,7 @@ for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
 The snipet below adjusts the code above to give the servo a wider range of movement, as well as faster change in positions. 
 
 
-for (pos = 0; pos <= 270; pos += 1) { // goes from 0 degrees to 180 degrees
+for (pos = 0; pos <= 90; pos += 1) { // goes from 0 degrees to 180 degrees
   // in steps of 1 degree
   myservo.write(pos);              // tell servo to go to position in variable 'pos'
   delay(5);                       // waits 15ms for the servo to reach the position
@@ -55,6 +55,7 @@ Adjusted video
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+Link
 
 ## Part D. Paper puppet
 
