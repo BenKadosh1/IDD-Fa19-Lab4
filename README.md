@@ -48,13 +48,14 @@ for (pos = 0; pos <= 90; pos += 1)
   delay(5);  
 }
 
-Original Video
+Original Video  
 Adjusted video
 
 
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+
 Link
 
 ## Part D. Paper puppet
