@@ -72,8 +72,6 @@ Another item to note, as mentioned on the Arduino website's Servo library overvi
 
 ## Part E. Make it your own
 
-**a. Make a video of your final design.**
-
 In an effort to add a bit of humor to this lab, my brother and I challenged eachother to a dance-off with our puppets. We added embarassing photos to the puppets as well. Link below!
 
 [Paper Puppet Dance Off - Youtube Link](https://www.youtube.com/watch?v=Ho-TVZQEoXA&feature=youtu.be)
