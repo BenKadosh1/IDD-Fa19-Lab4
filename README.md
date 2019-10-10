@@ -63,9 +63,8 @@ Another item to note, as mentioned on the Arduino website's Servo library overvi
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+[Integrated FSR and Servo Motor](https://www.youtube.com/watch?v=jHwlTivc6SU&feature=youtu.be)
 
-Link
 
 ## Part D. Paper puppet
 
