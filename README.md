@@ -36,16 +36,19 @@ In the code snipet below (lines 22-30 from Sweep) we can see that pos will deter
 for (pos = 0; pos <= 180; pos += 1) 
 { 
 
-  myservo.write(pos);  
+  myservo.write(pos);
+  
   delay(15);                       
 }
 
 The snipet below adjusts the code above to give the servo a wider range of movement, as well as faster change in positions. 
 
 
-for (pos = 0; pos <= 90; pos += 1) { 
+for (pos = 0; pos <= 90; pos += 1) 
+{ 
 
-  myservo.write(pos);       
+  myservo.write(pos); 
+  
   delay(5); 
   
 }
