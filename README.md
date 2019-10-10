@@ -53,6 +53,7 @@ for (pos = 0; pos <= 90; pos += 1)
 I uploaded videos of both sets of code for context below.
 
 [Original Servo Sweep](https://www.youtube.com/watch?v=7oR3E7tIOlw&feature=youtu.be) 
+
 [Adjusted Servo Sweep](https://www.youtube.com/watch?v=qBB4fSvNwlg&feature=youtu.be)
 
 Another item to note, as mentioned on the Arduino website's Servo library overview, "Standard servos allow the shaft to be positioned at various angles, usually between 0 and 180 degrees." This explains why the Servo motor was not completing 360 degrees of motion when attempted. 
