@@ -31,6 +31,27 @@ myservo.attach(9);  // attaches the servo on pin 9 to the servo object
 
 **b. What aspects of the Servo code control angle or speed?**
 
+In the code snipet below (lines 22-30 from Sweep) we can see that pos will determine the position the servo moves to, so when we provide pos from 0 - 180 we are giving it a range of 180 degrees. Furthermore, the delay factor controls the speed at which the servo changes position.
+
+for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
+  // in steps of 1 degree
+  myservo.write(pos);              // tell servo to go to position in variable 'pos'
+  delay(15);                       // waits 15ms for the servo to reach the position
+}
+
+The snipet below adjusts the code above to give the servo a wider range of movement, as well as faster change in positions. 
+
+
+for (pos = 0; pos <= 270; pos += 1) { // goes from 0 degrees to 180 degrees
+  // in steps of 1 degree
+  myservo.write(pos);              // tell servo to go to position in variable 'pos'
+  delay(5);                       // waits 15ms for the servo to reach the position
+}
+
+Original Video
+Adjusted video
+
+
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
