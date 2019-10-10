@@ -1,10 +1,8 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Ben Kadosh*
 
 ## In this Report
-
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
 
 ## Part A. Actuating DC motors
 
@@ -15,6 +13,10 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ### Part 1. Connect the Servo to your breadboard
 
 **a. Which color wires correspond to power, ground and signal?**
+
+Red --> Power
+Brown --> Ground
+Orange --> Signal
 
 ### Part 2. Connect the Servo to your Arduino
 
