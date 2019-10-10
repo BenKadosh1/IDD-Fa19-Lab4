@@ -15,7 +15,9 @@
 **a. Which color wires correspond to power, ground and signal?**
 
 Red --> Power
+
 Brown --> Ground
+
 Orange --> Signal
 
 ### Part 2. Connect the Servo to your Arduino
