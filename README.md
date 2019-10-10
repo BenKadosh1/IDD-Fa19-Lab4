@@ -27,7 +27,8 @@ Orange --> Signal
 
 As can be seen in line 18 of the Arduino code for Sweep, the signal line of the servo should be attached to pin 9.
 
-Code below: 
+Code below:  
+
 myservo.attach(9);  // attaches the servo on pin 9 to the servo object
 
 **b. What aspects of the Servo code control angle or speed?**
