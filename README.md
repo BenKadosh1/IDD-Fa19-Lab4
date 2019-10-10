@@ -68,7 +68,7 @@ Another item to note, as mentioned on the Arduino website's Servo library overvi
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+[Paper Puppet - Youtube Link](https://www.youtube.com/watch?v=76taXlzjOvE&feature=youtu.be)
 
 ## Part E. Make it your own
 
