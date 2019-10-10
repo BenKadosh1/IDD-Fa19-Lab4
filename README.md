@@ -34,6 +34,7 @@ myservo.attach(9);  // attaches the servo on pin 9 to the servo object
 In the code snipet below (lines 22-30 from Sweep) we can see that pos will determine the position the servo moves to, so when we provide pos from 0 - 180 we are giving it a range of 180 degrees. Furthermore, the delay factor controls the speed at which the servo changes position.
 
 for (pos = 0; pos <= 180; pos += 1) 
+
 { 
 
   myservo.write(pos);
@@ -45,6 +46,7 @@ The snipet below adjusts the code above to give the servo a wider range of movem
 
 
 for (pos = 0; pos <= 90; pos += 1) 
+
 { 
 
   myservo.write(pos); 
