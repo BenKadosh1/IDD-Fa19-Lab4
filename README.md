@@ -65,4 +65,10 @@ Link
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+In an effort to add a bit of humor to this lab, my brother and I challenged eachother to a dance-off with our puppets. We added embarassing photos to the puppets as well. Links below!
+
+
+
+
  
